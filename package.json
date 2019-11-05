@@ -1,0 +1,11 @@
+{
+  "name": "jap-static-app",
+  "version": "1.0.0",
+  "description": "Example how to host static website or application with Jexia App Hosting",
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server -c-1 -p 80 public"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
