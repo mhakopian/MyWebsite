@@ -6,6 +6,6 @@
     "start": "node node_modules/http-server/bin/http-server -c-1 -p 80 public"
   },
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
